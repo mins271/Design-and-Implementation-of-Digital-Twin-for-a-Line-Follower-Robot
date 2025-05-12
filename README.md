@@ -8,3 +8,9 @@ STEP 01: The setup for the Matlab simulation can be accessed through the Matlab 
 STEP 03: The third aspect is Physical. As a Riga Technical University student, you will have access to the physical model that I developed for further study and upgrades. If you are a student from another university, you will need to create the physical model using the ESP32 microcontroller script and the robot building manual. 
 
 Alternatively, if you are interested in building something different and aim to create a digital twin, you can simply modify the design in the Unity application and adjust the ESP32 microcontroller script by selecting your desired board. This entire integrated synchronization system for the digital twin model is designed not only for the developed physical model but can also be adapted for any model by simply setting it up.
+
+
+Contact Information for Inquiries  
+⮚ Email: girishchandrappa.me@gmail.com  
+⮚ Contact: +371 25727479, +91 8431700434 (WhatsApp is preferable)  
+⮚ Interested students can contact for detailed files, reports, and PPTs.
